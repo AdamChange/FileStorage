@@ -1,0 +1,58 @@
+{
+    "iPad Air": {
+        "detail": {
+            "productName": "iPad Air",
+            "baseImgUrl": "./img/ipad-air-unselect.jpg"
+        },
+        "outer": [
+            {"color": "太空灰","imageUrl": "./img/ipad-air-space-gray.png","pic": "./img/ipad-air-point-space-gray.png"},
+            {"color": "藍色","imageUrl": "./img/ipad-air-blue.png","pic": "./img/ipad-air-point-blue.png"},
+            {"color": "粉紅色","imageUrl": "./img/ipad-air-pink.png","pic": "./img/ipad-air-point-pink.png"},
+            {"color": "紫色","imageUrl": "./img/ipad-air-purple.png","pic": "./img/ipad-air-point-purple.png"},
+            {"color": "星光色","imageUrl": "./img/ipad-air-starlight.png","pic": "./img/ipad-air-point-starlight.png"}
+        ],
+        "price": [
+            {"storage": "64GB","network": "Wi-Fi","price": 19900},
+            {"storage": "64GB","network": "Wi-Fi+Cellular","price": 24900},
+            {"storage": "256GB","network": "Wi-Fi","price": 24900},
+            {"storage": "256GB","network": "Wi-Fi+Cellular","price": 29900}
+        ]
+    },
+    "IPhone": {
+        "detail": {
+            "productName": "iPhone 12",
+            "baseImgUrl": "./img/iphone-12-unselect.jpg"
+        },
+        "outer": [
+            {"color": "藍色","imageUrl": "./img/iphone-12-blue.jpg","pic": "./img/iphone-12-point-blue.jpg"},
+            {"color": "紫色","imageUrl": "./img/iphone-12-purple.jpg","pic": "./img/iphone-12-point-purple.jpg"},
+            {"color": "綠色","imageUrl": "./img/iphone-12-green.jpg","pic": "./img/iphone-12-point-blgreenpg"},
+            {"color": "白色","imageUrl": "./img/iphone-12-white.jpg","pic": "./img/iphone-12-point-bluwhiteg"},
+            {"color": "午夜色","imageUrl": "./img/iphone-12-black.jpg","pic": "./img/iphone-12-point-black"},
+            {"color": "紅色","imageUrl": "./img/iphone-12-red.jpg","pic": "./img/iphone-12-point-red.jpg"}
+        ],
+        "price": [
+            {"style": "Iphone 12","storage": "256GB","price": 31400,"desc": "6.1 吋顯示器"},
+            {"style": "Iphone 12","storage": "128GB","price": 27900,"desc": "6.1 吋顯示器"},
+            {"style": "Iphone 12","storage": "512GB","price": 38400,"desc": "6.1 吋顯示器"}
+        ]
+    },
+    "iPad mini": {
+        "detail": {
+            "productName": "iPad mini",
+            "baseImgUrl": "./img/ipad-mini-unselect.jpg"
+        },
+        "outer": [
+            {"color": "太空灰色","imageUrl": "./img/ipad-mini-space-gray.jpg","pic": "./img/ipad-mini-point-space-gray.jpg"},
+            {"color": "粉紅色","imageUrl": "./img/ipad-mini-pink.jpg","pic": "./img/ipad-mini-point-pink.jpg"},
+            {"color": "紫色","imageUrl": "./img/ipad-mini-purple.jpg","pic": "./img/ipad-mini-point-purple.jpg"},
+            {"color": "星光色","imageUrl": "./img/ipad-mini-starlight.jpg","pic": "./img/ipad-mini-point-starlight.png"}
+        ],
+        "price": [
+            {"storage": "64GB","network": "Wi-Fi","price": 16900},
+            {"storage": "64GB","network": "Wi-Fi+Cellular","price": 21900},
+            {"storage": "256GB","network": "Wi-Fi","price": 21900},
+            {"storage": "256GB","network": "Wi-Fi+Cellular","price": 26900}
+        ]
+    }
+}
